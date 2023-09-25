@@ -7,3 +7,4 @@
 |Stack|https://github.com/anambiarext/sept_25/blob/main/stack.py|
 |Queue|https://github.com/anambiarext/sept_25/blob/main/queue.py|
 |Shopping Cart|https://github.com/anambiarext/sept_25/blob/main/shopping_cart.py|
+|Bank Ops|https://github.com/anambiarext/sept_25/blob/main/bank.py|
